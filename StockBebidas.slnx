@@ -1,3 +1,4 @@
 <Solution>
-  <Project Path="StockBebidas.UI./StockBebidas.UI.csproj" />
+  <Project Path="StockBebidas.Logica/StockBebidas.Logica.csproj" Id="20f4ed8f-e6d6-41e0-9d35-36155d3bcd93" />
+  <Project Path="StockBebidas.UI/StockBebidas.UI.csproj" Id="3186e85c-66d7-4f48-b946-d6c1fc0826be" />
 </Solution>
